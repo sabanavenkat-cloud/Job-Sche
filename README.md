@@ -88,21 +88,6 @@ This allows the system to:
 
 ---
 
-## 📁 Dataset
-
-The project uses a dataset (burst_dataset.csv) with the following structure:
-
-| arrival_mod | priority | past_burst | burst |
-| ----------- | -------- | ---------- | ----- |
-| 1           | 5        | 10         | 12    |
-| 3           | 2        | 5          | 7     |
-
-This dataset is used to:
-
-* Validate prediction accuracy
-* Compare predicted vs actual burst times
-
----
 
 ## 🛠️ Technologies Used
 
